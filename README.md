@@ -1,5 +1,7 @@
-## Licença
+# TubeLoader
 
-Este projeto está licenciado sob os termos da [GNU General Public License v3.0](LICENSE).
+© 2025 NETWAPS. Todos os direitos reservados.
 
-Ele utiliza o [yt-dlp](https://github.com/yt-dlp/yt-dlp), que é distribuído sob a mesma licença.
+TubeLoader é um software proprietário/comercial.
+
+**Aviso:** Este aplicativo utiliza o projeto de código aberto **yt-dlp**, que é licenciado sob a **GNU General Public License v3.0 (GPLv3)**. A distribuição do componente yt-dlp está em conformidade com os termos da licença.
